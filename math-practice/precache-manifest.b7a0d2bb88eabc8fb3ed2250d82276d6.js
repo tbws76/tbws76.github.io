@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/math-practice/static/js/runtime~main.2d63b2f5.js"
   },
   {
-    "revision": "6cfd32586ed27c8e3f9b",
-    "url": "/math-practice/static/js/main.6cfd3258.chunk.js"
+    "revision": "6ddd9f245e0a7c3f3794",
+    "url": "/math-practice/static/js/main.6ddd9f24.chunk.js"
   },
   {
     "revision": "c7ecafe6e14c72cfe94f",
     "url": "/math-practice/static/js/2.c7ecafe6.chunk.js"
   },
   {
-    "revision": "6cfd32586ed27c8e3f9b",
+    "revision": "6ddd9f245e0a7c3f3794",
     "url": "/math-practice/static/css/main.cff9382f.chunk.css"
   },
   {
-    "revision": "01ebe5fc5fd327952d068e58b16c6b23",
+    "revision": "39dd0b2ec87e0f85f007429b1d205df4",
     "url": "/math-practice/index.html"
   }
 ];
